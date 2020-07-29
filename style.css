@@ -179,10 +179,14 @@ li.nav a:hover {
   background-color: #43d6b9ff;
   background-size: cover;
   min-height: 100%; /* This adjusts the height of the image */
+}
 
   /* TODO: Add the property to create the parallax scrolling effect here */
-  
+background-attachment:fixed;
+
 }
+  
+
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
