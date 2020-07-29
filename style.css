@@ -172,7 +172,7 @@ li.nav a:hover {
 /* TODO: Add the CSS selector for each image to the collective image rule set */
 
 .main-message,
-.image-one {
+.image-one{
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -199,6 +199,7 @@ background-attachment:fixed;
 }
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
+
 
 /* TODO: Add more background images by repeating the process above */
 
