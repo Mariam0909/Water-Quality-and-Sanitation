@@ -173,6 +173,8 @@ li.nav a:hover {
 
 .main-message,
 .image-one{
+  background-attachment:fixed;
+
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -182,9 +184,7 @@ li.nav a:hover {
 }
 
   /* TODO: Add the property to create the parallax scrolling effect here */
-background-attachment:fixed;
 
-}
   
 
 
@@ -199,7 +199,9 @@ background-attachment:fixed;
 }
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
-
+.image-two {
+  background-image: url("https://cdn.glitch.com/48723b16-cc91-4dbc-9687-a3a9ef8caba3%2Fimage%201.gif?v=1595966085318");
+}
 
 /* TODO: Add more background images by repeating the process above */
 
