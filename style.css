@@ -228,3 +228,15 @@ https://cdn.glitch.com/48723b16-cc91-4dbc-9687-a3a9ef8caba3%2Fvaccine.jpg?v=1595
 
 
 /* TODO: Add additional breakpoints based on your website's design
+/*Applies a blue shadow 1px horizontally and 1px vertically */
+h1 {
+  text-shadow: 1px 1px blue;
+}
+
+/*Applies a black shadow around a div */
+div {
+  box-shadow: 12px 12px;
+}
+body {
+  background-image: linear-gradient(blue, purple);
+}
